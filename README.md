@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dani
 - 👀 I’m interested in ...History, politics and science
-- 🌱 I’m currently learning ... ksa
+- 🌱 I’m currently learning ... data science
 - 💞️ I’m looking to collaborate on ... still thinking
 - 📫 How to reach me ... just don`t
 - 😄 Pronouns: ... He / She / They
-- ⚡ Fun fact: ... sometimes i solve equations while sleeping
+- ⚡ Fun fact: ... sometimes I solve equations while sleeping
 
 <!---
 gaithoxzm/gaithoxzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
